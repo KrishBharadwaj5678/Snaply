@@ -9,7 +9,7 @@ st.set_page_config(
     })
 
 st.write(
-    "<h2 style=color:#6EACDA;>Capture and Download Your Selfie Instantly</h2>",
+    "<h2 style=color:#6EACDA;>Capture and Download Your Selfie Instantly.</h2>",
     unsafe_allow_html=True)
 
 cap_photo = st.camera_input('')
